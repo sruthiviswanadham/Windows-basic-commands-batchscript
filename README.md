@@ -102,5 +102,4 @@ The commands/batch files are executed successfully.
 
 
 
-# RESULT:
-The commands/batch files are executed successfully.
+
